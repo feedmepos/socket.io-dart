@@ -1,6 +1,8 @@
 # socket.io-dart
 
 Port of awesome JavaScript Node.js library - [Socket.io v2.0.1](https://github.com/socketio/socket.io) - in Dart
+This is fork of https://github.com/victorshx/socket.io-dart. No idea what are the changes are for, but the changes
+that is build with this fork will be specific to FeedMe until if this package is not needed.
 
 ## Usage
 

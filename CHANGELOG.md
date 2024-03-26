@@ -1,3 +1,7 @@
+## 1.0.2
+* Forked from Victorshx. Your contributions are much appreciated 🫡
+* Disable log from StreamServer
+
 ## 1.0.1
 
 **Bug Fix:**

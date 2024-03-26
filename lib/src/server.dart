@@ -244,7 +244,7 @@ class Server {
     if (srv is num) {
       _logger.fine('creating http server and binding to $srv');
       final port = srv.toInt();
-      final server = StreamServer();
+      final server = StreamServer(disableLog: true);
       await server.start(port: port);
 //      HttpServer.bind(InternetAddress.ANY_IP_V4, port).then((
 //          HttpServer server) {
